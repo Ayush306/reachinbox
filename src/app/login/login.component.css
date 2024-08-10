@@ -1,0 +1,236 @@
+body {
+  background-color: #25262B;
+  background: black;
+
+}
+
+.header {
+
+  justify-content: center;
+  border-bottom: 1px solid rgb(216, 148, 216);
+  align-items: center;
+  padding: 10px 0px;
+  top: 0px;
+  display: flex;
+}
+
+
+
+.login {
+  width: 460px;
+  height: 344px;
+  margin: 120px auto;
+  color: white;
+  background: linear-gradient(138.97deg, #111214 5.16%, #121212 105.18%);
+
+  border: 1px solid #343A40;
+  gap: 2.5rem;
+  align-items: center;
+  border-radius: 17px;
+  padding: 20px;
+}
+
+.head h3{
+
+  padding-bottom: 30px;
+}
+
+h3 {
+  text-align: center;
+  font-size: 1.5rem;
+  ;
+}
+
+
+.box {
+
+  gap: 24px;
+  opacity: 0px;
+
+}
+.box .create-btn{
+  width: 54%;
+  font-size: 16px;
+  font-family: Open sans;
+  cursor: pointer;
+}
+
+
+
+.btn-btn {
+  Width: 195px;
+  height: 48px;
+  border-radius: 4px;
+  Padding: 13px 35px 13px 35px;
+  Gap: 10px;
+  color: white;
+  font-size: 2 rem;
+  background: linear-gradient(91.73deg, #4B63DD -2.99%, rgba(5, 36, 191, 0.99) 95.8%);
+}
+
+p {
+  width: Fixed (248px)px;
+  height: Hug (25px)px;
+  gap: 4px;
+  opacity: 0px;
+  text-align: center;
+  font-size: 1.2rem;
+
+}
+
+a {
+  text-decoration: none;
+  font-size: 1.2rem;
+  color: white;
+}
+
+p {
+  color: #ffffff;
+  margin-top: 7px;
+}
+
+#text {
+  font-family: Open Sans;
+  font-size: 1 rem;
+  padding-left: 20px;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.menu {
+  width: 50px;
+  height: 100vh;
+  margin-left: 10px;
+  border-right: 1px solid #343A40;
+  ;
+
+}
+
+img {
+  padding-top: 0%;
+  top: -15px;
+}
+
+.logo {
+  position: absolute;
+  top: 0%;
+  padding-top: 30px;
+  padding-left: 1px;
+  padding-right: 30px;
+}
+
+.navbar a {
+  display: block;
+  justify-content: space-between;
+  padding-bottom: 35px;
+}
+
+#nt {
+  top: -1px;
+  z-index: 2;
+
+}
+
+.unbox {
+  justify-content: center;
+  margin: auto;
+
+}
+
+
+h3 {
+  color: white;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 24px;
+  font-weight: 700;
+
+}
+
+.msg {
+
+  justify-content: center;
+  text-align: center;
+}
+
+p {
+  color: #9E9E9E;
+  text-align: center;
+}
+
+img {
+
+  margin-bottom: 0%;
+}
+
+.list {
+  margin-right: 15px;
+  background-color: #25262B;
+  margin-bottom: 18px;
+
+}
+
+.Trim {
+  width: 113px;
+  height: 35px;
+  font-family: Open Sans;
+  font-size: 1 rem;
+  padding-left: 20px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #25262B;
+
+}
+
+#bt {
+  background-color: #25262B;
+}
+
+
+
+
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 58px;
+}
+
+.box button {
+  border: none;
+}
+
+.google-signup-box button {
+  cursor: pointer;
+  border: 1px solid #7071726c;
+  background-color: transparent;
+  padding: 20px 40px;
+  color: white;
+  padding: 6px 107px 6px 107px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.google-signup-box button span{
+  padding-top: 4px;
+}
+.google-signup-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+.google-signup-box .google-icon {
+  width: 100%;
+}
+.login{
+  background: linear-gradient(138.97deg, #111214 5.16%, #121212 105.18%);
+
+}
+.

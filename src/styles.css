@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  /* background: black; */
+
+}
+body{
+     background: #000;
+     background-color: #000 !important;
+     font-family: "Open Sans", sans-serif;
+     color:#fff;
+     overflow: hidden;
+
+}
+
+select,.list select:focus-within{
+  background: #343A40;
+  color: #fff;
+  border: none;
+  box-shadow: none;
+  outline: none;
+}
+

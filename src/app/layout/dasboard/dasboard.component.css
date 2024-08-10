@@ -1,0 +1,56 @@
+.das-container{
+  margin-left: 60px;
+  background-color: #000;
+  border: 1px solid #8080804a;
+  font-family: sans-serif;
+}
+.lead-details{
+  padding: 5px;
+  color: #fff;
+  border-left: 1px solid rgba(128, 128, 128, 0.671);
+
+}
+.lead-details .heading{
+  padding: 10px 18px;
+  background: #23272C;
+  text-align: left;
+  font-weight: 600;
+  font-size: 18px;
+  border-radius: 10px;
+}
+.lead-details .lead-data{
+  padding: 10px;
+}
+.lead-details .data-grp{
+  /* padding: 10px; */
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0px;
+
+}
+.lead-details .data-grp span{
+  color:  #B9B9B9;
+
+}
+.activities .heading{
+  padding: 10px 18px;
+  background: #23272C;
+  text-align: left;
+  font-weight: 600;
+  font-size: 18px;
+  border-radius: 10px;
+
+}
+.activities .campaign-details{
+  padding: 30px;
+  font-size: 18px;
+
+}
+.step-data {
+  padding: 10px;
+}
+.step-email-details{
+  font-size: 15px;
+  color: #B9B9B9;
+  /* padding: 20px; */
+}
